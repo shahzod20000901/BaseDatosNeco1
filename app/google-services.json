@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "820559192703",
+    "firebase_url": "https://basedateneco-7d7de-default-rtdb.firebaseio.com",
+    "project_id": "basedateneco-7d7de",
+    "storage_bucket": "basedateneco-7d7de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820559192703:android:e2cde4101f86001f0a554a",
+        "android_client_info": {
+          "package_name": "com.example.basedatosneco1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820559192703-aejskmc325bhd10h2uq6rmfg3c332jpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt0UZaGyR5kR_k6l_U-dksOUAhtwN34LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820559192703-aejskmc325bhd10h2uq6rmfg3c332jpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
